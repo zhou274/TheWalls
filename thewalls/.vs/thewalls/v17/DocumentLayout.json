@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\assets\\scripts\\audiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB309B8E-37B0-22C9-4653-6C5D9BA4C61E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:44:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioButton.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\AudioButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioButton.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\AudioButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:44:10.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv10AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:38:54.172Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:36:24.48Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CebianlanManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:35:25.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:01:45.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:00:08.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAAwAkBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:59:34.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5939\u7F1D\u751F\u5B58\\thewalls\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:58:33.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
